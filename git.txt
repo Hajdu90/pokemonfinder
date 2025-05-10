@@ -1,3 +1,15 @@
+gitbash telepítése a pc-re
+
+Visual studio terminal
 git config --global user.name "Hajdu90"
 git config --global user.email "hajdu90shares@gmail.com"
 git config --list
+
+Github weblap, belépés, new reposit, megadjuk a nevét, létrehoz és onnan beillesztjük ezt a listát.
+git init
+git add .
+git commit -m "upload a git.txt"
+git branch -M main
+git remote add origin https://github.com/Hajdu90/pokemonfinder.git
+git push -u origin main
+
