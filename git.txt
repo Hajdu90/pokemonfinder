@@ -17,3 +17,12 @@ git push -u origin main
 git add .
 git commit -m "KOMMENT A FELTÖLTÉSHEZ"
 git push
+
+weblap
+settings -> Pages -> 
+Source: Deploy from a branch
+Branch: main | /(root) | Save (nyomjuk meg)
+
+(létrejött:
+Your site is live at https://hajdu90.github.io/pokemonfinder/
+Last deployed by @Hajdu90 Hajdu90 3 minutes ago)
