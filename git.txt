@@ -13,3 +13,7 @@ git branch -M main
 git remote add origin https://github.com/Hajdu90/pokemonfinder.git
 git push -u origin main
 
+Új fájlok feltöltése
+git add .
+git commit -m "KOMMENT A FELTÖLTÉSHEZ"
+git push
