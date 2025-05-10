@@ -26,3 +26,16 @@ Branch: main | /(root) | Save (nyomjuk meg)
 (létrejött:
 Your site is live at https://hajdu90.github.io/pokemonfinder/
 Last deployed by @Hajdu90 Hajdu90 3 minutes ago)
+
+
+
+Vesszük:
+
+API-k, kiszolgálók, adatok lekérések,
+api - végpont
+json választ kapunk
+promise
+fetch() hálózati kérések
+await - async
+
+
